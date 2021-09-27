@@ -10,7 +10,9 @@ Assignment to fetch the git commit by passing valid args
  **To run the application** 
   1. clone the repository
   2. Must have node installed
-  3. Execute node app.js
+  3. npm install express
+  4. npm install request
+  5. Execute node app.js
 
  Above steps will start the application on 1234 port
 
